@@ -1,0 +1,322 @@
+[{
+  "_id": {
+    "$oid": "65dd193c4bb1e01d6d630552"
+  },
+  "imdbId": "tt000765178",
+  "title": "Godzilla x Kong: The New Empire",
+  "releaseDate": "2024",
+  "trailerLink": "https://www.youtube.com/watch?v=ahIandqFiFE",
+  "genres": [
+    "Action & Adventure",
+    "Sci-Fi",
+    "Fantasy"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vanNAEULVVfPMmtRTHzTW1kLRIV.jpg",
+  "backdrops": [
+    "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/03/godzilla-x-kong_-the-new-empire-poster-2024-1.jpg",
+    "https://static1.colliderimages.com/wordpress/wp-content/uploads/2024/03/godzilla-x-kong_-the-new-empire-poster-2024-1.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "65e38f21d4ce4d1f3a1504e5"
+    },
+    {
+      "$oid": "666581e2db678222204cf26f"
+    },
+    {
+      "$oid": "666582d3db678222204cf270"
+    },
+    {
+      "$oid": "666582d9db678222204cf271"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65dd171f4bb1e01d6d63054c"
+  },
+  "imdbId": "tt8090066578",
+  "title": "Skal - Fight for Survival",
+  "releaseDate": "2023",
+  "trailerLink": "https://www.youtube.com/watch?v=IY8UdfV0OJk",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Horror",
+    "Thriller"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1On8iF3AsFIbpyfZg1xiGWMAFBn.jpg",
+  "backdrops": [
+    "https://s2.dmcdn.net/v/VSrW71bQfgL2Akurn/x1080",
+    "https://s2.dmcdn.net/v/VSrW71bQfgL2Akurn/x1080"
+  ],
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "65e3266ee7995cac2ecaa94b"
+  },
+  "imdbId": "tt645701078",
+  "title": "Parasite",
+  "releaseDate": "2019",
+  "trailerLink": "https://www.youtube.com/watch?v=5xH0HfJHsaY",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Comedy"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+  "backdrops": [
+    "https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/7158-/WLmtsk9NDm0nVjaYR59XpG6Uq5Muj0_original.jpg",
+    "https://s3.amazonaws.com/criterion-production/editorial_content_posts/hero/7158-/WLmtsk9NDm0nVjaYR59XpG6Uq5Muj0_original.jpg"
+  ],
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "65dd16074bb1e01d6d63054a"
+  },
+  "imdbId": "tt809376008",
+  "title": "Poor Things",
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/37x8UdSpwoTOva5AUdnHw5VCDD1.jpg",
+  "trailerLink": "https://www.youtube.com/watch?v=RlbR5N6veqw",
+  "genres": [
+    "Romantic",
+    "Sci-Fi",
+    "Comedy",
+    "Drama"
+  ],
+  "backdrops": [
+    "https://miro.medium.com/v2/resize:fit:2000/1*oDyXw9yfD16Sr-vbKqdyig.jpeg",
+    "https://media.houseandgarden.co.uk/photos/65aea0ae4f0c9af8ae438e6b/master/w_1600%2Cc_limit/Etyek-Korda-Studio-Poor-Things-Garage_2_.jpg"
+  ],
+  "reviewIds": [],
+  "_class": "dev.bashar.movie.Movie"
+},
+{
+  "_id": {
+    "$oid": "65e3b7bcd1c77c7e9b8647ee"
+  },
+  "imdbId": "tt77788811",
+  "title": "The Beekeeper",
+  "releaseDate": "2024",
+  "trailerLink": "https://www.youtube.com/watch?v=SzINZZ6iqxY",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "Action"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg",
+  "backdrops": [
+    "https://static.kino.de/wp-content/uploads/2023/10/The_Beekeeper_Szenenbilder_15-rcm1200x627u.jpg",
+    "https://images6.alphacoders.com/135/1350476.png"
+  ],
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "65d9004d9a7f69c341bee5b6"
+  },
+  "imdbId": "tt80937077954",
+  "title": "Constellation",
+  "releaseDate": "2024",
+  "trailerLink": "https://www.youtube.com/watch?v=4dAaLbsQSzI",
+  "genres": [
+    "Sci-Fi",
+    "Drama",
+    "Mystery"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4WI9U8aX4zPERCXDbYNvjO5U0b.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bO72YNllLR8udL49DbkMau3bmGX.jpg",
+    "https://images.bauerhosting.com/empire/2024/02/constellation-3.png?ar=16%3A9&fit=crop&crop=top&auto=format&w=undefined&q=80"
+  ],
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "65dd18864bb1e01d6d630550"
+  },
+  "imdbId": "tt809376004",
+  "title": "Oppenheimer",
+  "releaseDate": "2023",
+  "trailerLink": "https://www.youtube.com/watch?v=kKpFmwxcl7U",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AiHV08v8RyyuHcO5wuTaTXBxfe.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9UYo2H6XTPUMpYiTxewsr4laxbz.jpg",
+    "https://media.gq-magazin.de/photos/64b7cd8c5c95a13af88a0d0e/16:9/w_2560%2Cc_limit/Oppenheimer-Aufmacher2-GQ.jpg"
+  ],
+  "reviewIds": [
+    "666600639cc195684803df34",
+    "666600c79cc195684803df35"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65d8fb4d9a7f69c341bee5b4"
+  },
+  "imdbId": "tt80937098",
+  "title": "The Zone of Interest",
+  "releaseDate": "2024-02-29",
+  "trailerLink": "https://www.youtube.com/watch?v=r-vfg3KkV54",
+  "genres": [
+    "History",
+    "Drama",
+    "War"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xooryxQKzsrwHoO6lDjZAY9oDGE.jpg",
+  "backdrops": [
+    "https://media.newyorker.com/photos/657b310f456cc0528112e74d/master/pass/TheZoneOfInterest_textless_ProRes422HQ_24p_1920x1080_178_Rec709_51-20_20230929.00_46_51_20.Still001.jpg",
+    "https://media.newyorker.com/photos/657b310f456cc0528112e74d/master/pass/TheZoneOfInterest_textless_ProRes422HQ_24p_1920x1080_178_Rec709_51-20_20230929.00_46_51_20.Still001.jpg"
+  ],
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "65e31871e7995cac2ecaa949"
+  },
+  "imdbId": "tt0007654700",
+  "title": "Spaceman",
+  "releaseDate": "2024",
+  "trailerLink": "https://www.youtube.com/watch?v=rNZ0xKaCdus",
+  "genres": [
+    "Sci-Fi",
+    "Drama"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7SfaYi38qB8TGYwon9zNSrGEkZM.jpg",
+  "backdrops": [
+    "https://ntvb.tmsimg.com/assets/p23914156_v_h8_ab.jpg?w=1280&h=720",
+    "https://awardsradar.com/wp-content/uploads/2024/02/spaceman-adam-sandler.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "65e3878fd4ce4d1f3a1504e4"
+    },
+    {
+      "$oid": "6664b63b15684d261ea47595"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65d902389a7f69c341bee5ba"
+  },
+  "imdbId": "tt809376578",
+  "title": "Halo",
+  "releaseDate": "2022",
+  "trailerLink": "https://www.youtube.com/watch?v=5KZ3MKraNKY",
+  "genres": [
+    "Action & Adventure",
+    "Sci-Fi",
+    "Fantasy"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hmHA5jqxN3ESIAGx0jAwV7TJhTQ.jpg",
+  "backdrops": [
+    "https://www.pcgames.de/screenshots/original/2023/08/Halo-buffed1.jpg",
+    "https://static.kino.de/b9/30/da/9d3df8ef33c3f2d378046febd8_A2IwOWRlM2YzMGZk_halo-epi0101_2082_rt-rcm1920x1080u.jpg"
+  ],
+  "reviewIds": [
+    "666601bc9cc195684803df36",
+    "6666b3eea5ce5105f3cc9f19",
+    "6666be69ba7e4b53a6a46541",
+    "6666be71ba7e4b53a6a46542",
+    "6666be76ba7e4b53a6a46543"
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e3b99ad1c77c7e9b8647f2"
+  },
+  "imdbId": "tt78998752",
+  "title": "Radical",
+  "releaseDate": "2023",
+  "trailerLink": "https://www.youtube.com/watch?v=L4DvL0UBZPQ",
+  "genres": [
+    "Drama"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eSatbygYZp8ooprBHZdb6GFZxGB.jpg",
+  "backdrops": [
+    "https://s3.amazonaws.com/static.rogerebert.com/uploads/review/primary_image/reviews/radical-movie-review-2023/radical-movie-review-2023.jpeg",
+    "https://a.ltrbxd.com/resized/sm/upload/6h/v5/ei/zr/radical-1200-1200-675-675-crop-000000.jpg?v=cd51847006"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "6664b5c015684d261ea47594"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65dd17d84bb1e01d6d63054e"
+  },
+  "imdbId": "tt809121578",
+  "title": "Aquaman: Lost Kingdom",
+  "releaseDate": "2023",
+  "trailerLink": "https://www.youtube.com/watch?v=icD3FaK8Pbo",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mcXSGVVfGHscD2JvbzrupCEJqfs.jpg",
+  "backdrops": [
+    "https://image.tmdb.org/t/p/w600_and_h900_bestv2/p9pdXjNEPUs3TmgzOpaWTNPFIWP.jpg",
+    "https://media.philstar.com/photos/2023/09/12/jason-momoa-aquaman_2023-09-12_12-28-01.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "65df940f4fab46094b485b6d"
+    },
+    {
+      "$oid": "65df965e4fab46094b485b6e"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e3ae9cd1c77c7e9b8647ea"
+  },
+  "imdbId": "tt0504018",
+  "title": "Code 8 Part II",
+  "releaseDate": "2024",
+  "trailerLink": "https://www.youtube.com/watch?v=omBi2KxEcRk",
+  "genres": [
+    "Crime",
+    "Sci-Fi",
+    "Action"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hhvMTxlTZtnCOe7YFhod9uz3m37.jpg",
+  "backdrops": [
+    "https://i0.wp.com/knightedgemedia.com/wp-content/uploads/2023/11/code-8-part-2-poster-banner.jpg?resize=1024%2C437&ssl=1",
+    "https://playbackonline.ca/wp/wp-content/uploads/2021/06/code-8-224uxa9g8q.jpg"
+  ],
+  "reviewIds": []
+},
+{
+  "_id": {
+    "$oid": "65e3af86d1c77c7e9b8647ec"
+  },
+  "imdbId": "tt65111008",
+  "title": "Mary and Max",
+  "releaseDate": "2009",
+  "trailerLink": "https://www.youtube.com/watch?v=p1W_mpSydYI",
+  "genres": [
+    "Drama",
+    "Animation",
+    "Comedy"
+  ],
+  "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xczWUtVtI442N4CKH3xv9N2IvYu.jpg",
+  "backdrops": [
+    "https://m.media-amazon.com/images/S/pv-target-images/f3ded04c728ac6e2d54fe519f2e176af9f42995ac50ba7634f63ad01259c0786.jpg",
+    "https://m.media-amazon.com/images/S/pv-target-images/f3ded04c728ac6e2d54fe519f2e176af9f42995ac50ba7634f63ad01259c0786.jpg"
+  ],
+  "reviewIds": [
+    {
+      "$oid": "66657e78db678222204cf26e"
+    }
+  ]
+}]
